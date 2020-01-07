@@ -1,0 +1,19 @@
+{
+  "name": "jscream",
+  "version": "1.0.0",
+  "description": "A Simple library build for a JSMonday article",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yinm/jscream.git"
+  },
+  "author": "yinm",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/yinm/jscream/issues"
+  },
+  "homepage": "https://github.com/yinm/jscream#readme"
+}

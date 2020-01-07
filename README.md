@@ -1,1 +1,1 @@
-# jscream
+ref: [JSMonday - Publishing a TypeScript Library](https://www.jsmonday.dev/articles/18/publishing-a-typescript-library)
