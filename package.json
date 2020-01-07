@@ -4,6 +4,7 @@
   "description": "A Simple library build for a JSMonday article",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yinm/jscream/issues"
   },
-  "homepage": "https://github.com/yinm/jscream#readme"
+  "homepage": "https://github.com/yinm/jscream#readme",
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  }
 }
