@@ -1,10 +1,12 @@
 {
-  "name": "jscream",
+  "name": "@yinm/jscream",
   "version": "1.0.0",
   "description": "A Simple library build for a JSMonday article",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
-  "files": ["/dist"],
+  "files": [
+    "/dist"
+  ],
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build",
